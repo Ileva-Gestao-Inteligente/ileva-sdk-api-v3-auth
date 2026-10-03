@@ -1,0 +1,29 @@
+# PHP
+/vendor/
+/composer.lock
+/.phpunit.cache/
+.phpunit.result.cache
+
+# Node
+node_modules/
+/node/dist/
+# Copiado da raiz no npm pack
+/node/LICENSE
+
+# Python
+/python/.venv/
+/python/dist/
+__pycache__/
+.pytest_cache/
+# Copiado da raiz no build
+/python/LICENSE
+
+# .NET
+bin/
+obj/
+
+# Editores e sistema
+.idea/
+.vscode/
+.DS_Store
+.ignore/
