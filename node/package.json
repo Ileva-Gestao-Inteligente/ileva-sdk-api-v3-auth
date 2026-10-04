@@ -3,6 +3,15 @@
   "version": "0.0.0-development",
   "description": "Autenticação na API Ileva v3: gera o token de acesso e mantém sua validade, com cache compartilhado em Redis.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ileva-Gestao-Inteligente/ileva-sdk-api-v3-auth.git",
+    "directory": "node"
+  },
+  "homepage": "https://github.com/Ileva-Gestao-Inteligente/ileva-sdk-api-v3-auth#readme",
+  "bugs": {
+    "url": "https://github.com/Ileva-Gestao-Inteligente/ileva-sdk-api-v3-auth/issues"
+  },
   "keywords": [
     "ileva",
     "oauth",
